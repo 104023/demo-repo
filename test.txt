@@ -9,4 +9,4 @@ i10
 duster
 i20
 frod
-indica
+indi
